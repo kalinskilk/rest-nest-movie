@@ -36,8 +36,6 @@ TypeORM is used for database communication, entities, and relationships.
 
 The `.entity` files mirror the database tables.
 
-The provider files...
-
 ## Relationships Between Movies and Actors Tables
 
 We use a one-to-many relationship between movies and actors.

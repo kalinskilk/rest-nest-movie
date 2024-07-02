@@ -36,8 +36,6 @@ Para comunicação com banco de dados, entidades e relações foi usado o typeor
 
 Os arquivos `.entity` espelham as tabelas do banco de dados.
 
-Os arquivos providers ...
-
 ### Relações entre tabelas movies e actors
 
 Usamos a relação de 1 para muitas entre movies e actors.
