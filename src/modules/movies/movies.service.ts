@@ -5,7 +5,7 @@ import {
   maximumAllowedLengthList,
   notFound,
   raiseDuplicateEntryError,
-} from 'src/common/custom-error';
+} from 'src/const/custom-error';
 import { repoConsts } from 'src/const/repositorys';
 import { BaseCrud } from 'src/interfaces/base-crud';
 import { HttpResponse } from 'src/interfaces/http-response';
